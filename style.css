@@ -1,0 +1,23 @@
+.jumbotron {
+  background-image: url(img/ALAM.jpg);
+  background-size: cover;
+  height: 490px;
+  text-align: center;
+  opacity: all 1.2;
+}
+.jumbotron h1 {
+	font-size: 60px; 
+	margin: 90px 30px 20px 30px ;
+}
+
+}
+.jumbotron hr {
+	width: 70px;
+	border-width: 3px;
+}
+.jumbotron .btn {
+	background-color: #ffa31a;
+	border: none;
+}
+.container-fluit div{padding: 30px;}
+h1{color: white;}
